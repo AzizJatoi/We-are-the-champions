@@ -1,11 +1,11 @@
 *{
     margin: 0;
     padding: 0;
-    /* background-color: black; */
 }
 
 body {
     font-family: 'Josefin Sans', sans-serif;
+    background-color: #444059;
 }
 
 .container {
@@ -14,22 +14,17 @@ body {
     align-items: center;
     width: 380px;
     margin: 0 auto;
-    margin-top: 1rem;
-}
-
-.main-heading {
-    color: white;
 }
 
 .main-img {
-    width: 150px;
+    width: 100px;
     color: black;
 }
 
 .input {
     border-radius: 10px;
     border: none;
-    background-color: #444059;
+    background-color: #605a7c;
     height: 80px;
     width: 100%;
     color: white;
